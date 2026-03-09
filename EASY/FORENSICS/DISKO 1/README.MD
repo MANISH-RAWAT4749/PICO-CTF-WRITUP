@@ -1,6 +1,6 @@
 DISKO 1
 
-Here's an explanation of the steps you've listed, arranged in a logical order for a typical PicoCTF challenge involving a disk image.
+Here's an explanation of the steps, arranged in a logical order for a typical PicoCTF challenge involving a disk image.
 Step 1: Decompressing the File
 gunzip filename.gz
 This command decompresses a file named filename.gz. The .gz extension indicates it's a gzip-compressed file. This is often the first step in a CTF challenge if you're given a compressed file. The command extracts the original file, which is likely the disk image (.dd), from the compressed archive.
