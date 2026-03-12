@@ -45,5 +45,5 @@ try:
 except UnicodeDecodeError:
     # fallback: print raw bytes
     print(pt_bytes)
-Expected output (your flag):
+ (flag):
 picoCTF{tw0_1$_pr!m33991588e}
