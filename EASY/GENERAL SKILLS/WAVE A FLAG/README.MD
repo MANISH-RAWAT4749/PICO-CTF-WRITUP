@@ -1,9 +1,14 @@
 
 Wave a flag — step-by-step solution
+
 Challenge: Wave a flag
+
 Author: syreal
+
 Description: Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...
+
 Steps (copy-paste ready)
+
 1.	Download the binary
 wget https://mercury.picoctf.net/static/f95b1ee9f29d631d99073e34703a2826/warm -O warm
 
