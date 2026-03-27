@@ -1,5 +1,7 @@
 🧩 Challenge Write-up: Bytemancy 0
+
 Category: General Skills
+
 Level: Easy
 ________________________________________
 🔍 Challenge Description
