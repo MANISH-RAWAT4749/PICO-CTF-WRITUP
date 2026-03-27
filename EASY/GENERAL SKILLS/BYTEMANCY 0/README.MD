@@ -50,7 +50,7 @@ ________________________________________
 •	e e e → wrong (spaces included)
 •	echo "eee" → adds newline (\n)
 ________________________________________
-🎯 Final Result
+🎯 Final Result : 
 picoCTF{pr1n74813_ch4r5_4daf27d8}
 ________________________________________
 🧠 Key Learning
