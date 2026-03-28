@@ -1,4 +1,3 @@
-Nice work — you solved it cleanly 🔥 Now let’s **formalize everything** exactly how you’d present it in a writeup + explain the command in detail.
 
 ---
 
