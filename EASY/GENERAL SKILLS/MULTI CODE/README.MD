@@ -3,9 +3,7 @@ ________________________________________
 
 🧩 Challenge Write-up: MultiCode
 
-📌 Challenge Name
-
-MultiCode
+📌 Challenge Name : MultiCode
 
 🏷️ Category
 General Skills
