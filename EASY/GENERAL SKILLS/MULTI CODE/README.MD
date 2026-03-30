@@ -5,10 +5,10 @@ ________________________________________
 
 📌 Challenge Name : MultiCode
 
-🏷️ Category
+🏷️ Category :
 General Skills
 
-⚡ Difficulty
+⚡ Difficulty :
 Easy
 ________________________________________
 📖 Description
