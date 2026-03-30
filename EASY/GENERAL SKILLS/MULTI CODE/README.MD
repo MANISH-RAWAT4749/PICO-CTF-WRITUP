@@ -42,9 +42,11 @@ ________________________________________
 echo "637670625047532537426172666772715f72617030717661745f73736f36706e6e32253744" | xxd -r -p
 
 📌 What is xxd?
+
 •	xxd is a Linux tool used for hex dump and reverse hex conversion
 •	-r → reverse (hex → text)
 •	-p → plain hex format
+
 Output:
 cvpbPGS%7Barfgrq_rap0qvat_sso6pnn2%7D
 👉 This looks like URL encoding (%7B, %7D)
