@@ -88,6 +88,8 @@ ________________________________________
 •	Weird readable text → ROT13
 ________________________________________
 🚀 Bonus (One-liner solve)
+
 echo "NjM3NjcwNjI1MDQ3NTMyNTM3NDI2MTcyNjY2NzcyNzE1ZjcyNjE3MDMwNzE3NjYxNzQ1ZjczNzM2ZjM2NzA2ZTZlMzIyNTM3NDQ=" | base64 -d | xxd -r -p | python3 -c "import sys,urllib.parse; print(urllib.parse.unquote(sys.stdin.read()))" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
 ________________________________________
 
