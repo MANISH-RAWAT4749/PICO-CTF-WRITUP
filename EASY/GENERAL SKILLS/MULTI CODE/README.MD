@@ -12,6 +12,7 @@ General Skills
 Easy
 ________________________________________
 📖 Description
+
 We are given a file (message.txt) containing an encoded string.
 The hint suggests that the flag is hidden behind multiple layers of encoding such as:
 •	Base64
@@ -54,6 +55,7 @@ python3 -c "import urllib.parse; print(urllib.parse.unquote('cvpbPGS%7Barfgrq_ra
 
 📌 Why Python?
 We use Python’s urllib.parse.unquote() to decode URL-encoded strings.
+
 Output:
 cvpbPGS{arfgrq_rap0qvat_sso6pnn2}
 👉 This looks like ROT13 encoded text
@@ -61,6 +63,7 @@ ________________________________________
 🏆 Step 5: Apply ROT13 using tr
 
 echo "cvpbPGS{arfgrq_rap0qvat_sso6pnn2}" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+
 📌 What is tr?
 •	tr = translate characters
 •	It replaces characters from one set with another
