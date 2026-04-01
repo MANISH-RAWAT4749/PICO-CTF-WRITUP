@@ -142,7 +142,9 @@ picoCTF{dh_s3cr3t_1b25e19f}
 ________________________________________
 💡 Key Takeaways
 •	Never leak private keys in Diffie-Hellman ❌
+
 •	XOR with small key = weak encryption ❌
+
 •	If private key is known → shared secret is trivial ✅
 ________________________________________
 
