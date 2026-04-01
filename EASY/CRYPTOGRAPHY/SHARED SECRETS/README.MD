@@ -2,12 +2,16 @@ picoCTF challenge 247
 ________________________________________
 
 🏆 Challenge Writeup
+
 📌 Challenge Name
 Shared Secrets
+
 📂 Category
 Cryptography
+
 📊 Level
 Easy
+
 ✍️ Author
 Yahaya Meddy
 ________________________________________
