@@ -3,16 +3,16 @@ ________________________________________
 
 🏆 Challenge Writeup
 
-📌 Challenge Name
+📌 Challenge Name : 
 Shared Secrets
 
-📂 Category
+📂 Category : 
 Cryptography
 
-📊 Level
+📊 Level : 
 Easy
 
-✍️ Author
+✍️ Author : 
 Yahaya Meddy
 ________________________________________
 📖 Description
