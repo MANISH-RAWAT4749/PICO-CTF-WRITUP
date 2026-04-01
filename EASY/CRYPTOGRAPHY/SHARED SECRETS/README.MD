@@ -71,6 +71,7 @@ ________________________________________
 👉 So we can directly compute the secret and decrypt
 ________________________________________
 ⚙️ Steps to Solve
+
 ✅ Step 1: Identify values
 From message.txt:
 •	A → public key
